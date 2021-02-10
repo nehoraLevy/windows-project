@@ -1,0 +1,45 @@
+﻿<Window x:Class="PLWPF.Manager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Manager" Height="415" Width="500" Icon="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026">
+    <Window.Resources>
+        <Style  TargetType="Label">
+            <Setter Property="FontSize"
+              Value="10" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="Foreground"
+                    Value="White"/>
+            <Setter Property="Height"
+              Value="23" />
+            <Setter Property="Width"
+                    Value="100"/>
+        </Style>
+        <Style  TargetType="Button">
+            <Setter Property="FontSize"
+              Value="12" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="FontWeight"
+              Value="Bold" />
+            <Setter Property="Background"
+                    Value="Transparent"/>
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="410" Grid.RowSpan="3" VerticalAlignment="Top" Width="510" Source="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Margin="-10,-26,-10,0" />
+        <Button Content="Guest Request List by Place" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="210" Height="52" Click="Button_Click_GuestRequestListbyPlace"/>
+        <Button Content="Num of Hosting Unit List by Owner" HorizontalAlignment="Left" Margin="10,168,0,0" VerticalAlignment="Top" Width="210" Height="53" Click="Button_Click_NumofHostingUnitListbyOwner"/>
+        <Button Content="Hosting Unit by Place" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Width="210" Height="53" Click="Button_Click_HostingUnitbyPlace"/>
+        <Button Content="Guest Request List by Num of Persons" HorizontalAlignment="Left" Margin="251,52,0,0" VerticalAlignment="Top" Width="232" Height="52" Click="Button_Click_GuestRequestListbyNumofPersons"/>
+        <Button Content="Order List by Status" HorizontalAlignment="Left" Margin="253,167,0,0" VerticalAlignment="Top" Width="210" Height="52" Click="Button_Click_OrderListbyStatus"/>
+        <Button Content="Guest Request by Status" HorizontalAlignment="Left" Margin="253,291,0,0" VerticalAlignment="Top" Width="210" Height="53" Click="Button_Click_GuestRequestbyStatus"/>
+        <Label Content="Manager" HorizontalAlignment="Left" Margin="182,5,0,0" VerticalAlignment="Top" Height="42" Width="123" FontSize="20"/>
+    </Grid>
+</Window>

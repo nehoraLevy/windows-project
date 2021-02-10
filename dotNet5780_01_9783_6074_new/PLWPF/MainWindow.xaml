@@ -1,0 +1,40 @@
+﻿<Window x:Class="PLWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        
+
+    Title="VACATION WEBSITE" Height="415" Width="500" Icon="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Foreground="White" >
+    <Window.Resources>
+        <Style  TargetType="Button">
+            <Setter Property="FontSize"
+              Value="20" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="FontWeight"
+              Value="Bold" />
+            <Setter Property="Background"
+                    Value="Transparent"/>
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Left"  Height="410" Grid.RowSpan="3" VerticalAlignment="Top" Width="510" Source="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Margin="-10,-26,-10,0" />
+        <Button x:Name="GuestRequestButton"  Content="Guest Request"   Margin="10,39,326,25"   Grid.Row="2" Click="GuestRequestButton_Click" />
+        <Button x:Name="HostingUnitButton" Content="Hosting Unit"  Margin="341,39,10,25"  Grid.Row="2" Click="HostingUnitButton_Click" />
+        <Button x:Name="ManagerButton" Content="Manager" Margin="178,39,154,25" Grid.Row="2" Click="ManagerButton_Click" />
+        <Label Content="VACATION WEBSITE" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="79" Width="481" FontSize="48" FontFamily="Rockwell" Foreground="White"/>
+        <Label Content="please select a option " HorizontalAlignment="Left" Margin="10,83.333,0,0" VerticalAlignment="Top" Height="79" Width="240" FontSize="20" FontFamily="Rockwell" Grid.Row="1" Grid.RowSpan="2" Foreground="#FFDF9633"/>
+
+    </Grid>
+
+</Window>

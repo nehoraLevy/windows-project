@@ -1,0 +1,161 @@
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+Z:\dotNet5780_01_9783_6074_new_new (2)\dotNet5780_01_9783_6074_new_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+Z:\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+Z:\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+Z:\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\BL\obj\Debug\BL.pdb

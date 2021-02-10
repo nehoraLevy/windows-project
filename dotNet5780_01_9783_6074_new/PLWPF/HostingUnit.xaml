@@ -1,0 +1,28 @@
+﻿<Window x:Class="PLWPF.HostingUnit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="HostingUnit" Height="410" Width="510" Icon="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026">
+    <Window.Resources>
+        <Style  TargetType="Button">
+            <Setter Property="FontSize"
+              Value="25" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="FontWeight"
+              Value="Bold" />
+            <Setter Property="Background"
+                    Value="Transparent"/>
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Image Source="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Height="410" Width="510" Margin="0,0,0,0" />
+        <Button x:Name="AddHostingUnitButton"  Content="Add Hosting Unit" Margin="229,281,8.333,9.667"   Click="AddHostingUnitButton_Click" Width="Auto"/>
+        <Button x:Name="PersonalSite"  Content="Personal Site" Margin="11,281,293.333,9.667"  Click="PersonalSite_Click" Width="Auto"/>
+    </Grid>
+</Window>

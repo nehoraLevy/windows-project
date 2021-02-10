@@ -1,0 +1,31 @@
+﻿<Window x:Class="PLWPF.ListOfGuestReuquests"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="ListOfGuestReuquests" Height="415" Width="500" Icon="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="410" Grid.RowSpan="3" VerticalAlignment="Top" Width="510" Source="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Margin="-10,-26,-10,0" />
+        <DataGrid x:Name="ListOfGuestReuquestsDataGrid" FontFamily="Rockwell" Background="{x:Null}" AutoGenerateColumns="False" IsReadOnly="True" HorizontalAlignment="Left" Height="379" Margin="3,6,0,0" VerticalAlignment="Top" Width="490" FontSize="16">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Guest Request Key" Binding="{Binding GuestRequestKey}"/>
+                <DataGridTextColumn Header="Private Name" Binding="{Binding PrivateName}"/>
+                <DataGridTextColumn Header="Family Name" Binding="{Binding FamilyName}"/>
+                <DataGridTextColumn Header="Mail Address" Binding="{Binding MailAddress}"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}"/>
+                <DataGridTextColumn Header="Entry Date" Binding="{Binding EntryDate}"/>
+                <DataGridTextColumn Header="Release Date" Binding="{Binding ReleaseDate}"/>
+                <DataGridTextColumn Header="City" Binding="{Binding SubArea}"/>
+                <DataGridTextColumn Header="Type" Binding="{Binding Type}"/>
+                <DataGridTextColumn Header="Num Of Persons" Binding="{Binding Persons}"/>
+                <DataGridTextColumn Header="Pool" Binding="{Binding Pool}"/>
+                <DataGridTextColumn Header="Jacuzzi" Binding="{Binding Jacuzzi}"/>
+                <DataGridTextColumn Header="Garden" Binding="{Binding Garden}"/>
+                <DataGridTextColumn Header=" Childrens Attractions" Binding="{Binding  ChildrensAttractions}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <GuestRequestKeyS>30000003</GuestRequestKeyS>
+  <HostingUnitKeyS>10000001</HostingUnitKeyS>
+  <OrderKeyS>20000007</OrderKeyS>
+  <CommissionPerClosedOrder>10</CommissionPerClosedOrder>
+  <NumDaysExpiringOrder>30</NumDaysExpiringOrder>
+</config>

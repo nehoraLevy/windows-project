@@ -1,0 +1,582 @@
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+Z:\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+Z:\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new (4)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\nelevy\Downloads\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DS.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new1\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\all floders\nehora levy\year2\dot net\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\batya\OneDrive\שולחן העבודה\שנה ב (מכון (טל\מיני פרוייקט\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.dll
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BE.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\BL.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\bin\Debug\DAL.pdb
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\App.g.cs
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddHostingUnit.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\DeleteHostingUnit.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestbyStatus.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListbyNumofPersons.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\GuestRequestListPlace.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitbyPlace.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\HostingUnitSite.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfGuestReuquests.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\ListOfOrders.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Manager.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\NumofHostingUnitListbyOwner.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\Order.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\OrderListbyStatus.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateHostingUnit.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\levy\Desktop\dotNet5780_01_9783_6074_new (2)\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\dotNet5780_01_9783_6074_new\PLWPF\obj\Debug\PLWPF.pdb

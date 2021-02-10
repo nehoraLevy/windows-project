@@ -1,0 +1,118 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.AddHostingUnit"
+        mc:Ignorable="d"
+        Title="AddHostingUnit" Height="600" Width="800" Loaded="Window_Loaded" Icon="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026">
+    <Window.Resources>
+        <CollectionViewSource x:Key="hostingUnitViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:HostingUnit}, CreateList=True}"/>
+        <Style  TargetType="Label">
+            <Setter Property="FontSize"
+              Value="10" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="Foreground"
+                    Value="White"/>
+            <Setter Property="Height"
+              Value="23" />
+            <Setter Property="Width"
+                    Value="100"/>
+        </Style>
+        <Style  TargetType="TextBox">
+            <Setter Property="Height"
+              Value="23" />
+            <Setter Property="Width"
+                    Value="100"/>
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+        <Style  TargetType="ComboBox">
+            <Setter Property="Height"
+              Value="30" />
+            <Setter Property="Width"
+                    Value="100"/>
+        </Style>
+        <Style  TargetType="Button">
+            <Setter Property="FontSize"
+              Value="20" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="FontWeight"
+              Value="Bold" />
+            <Setter Property="Background"
+                    Value="Transparent"/>
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+        <Style  TargetType="CheckBox">
+            <Setter Property="Height"
+              Value="20" />
+            <Setter Property="Width"
+                    Value="20"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="0,0,-6.667,-2.333" Height="600" Width="800" VerticalAlignment="Top" >
+
+        <Image HorizontalAlignment="Left" Width="800" Source="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Margin="-10,-26,0,0" />
+        <Label Content="Owner:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,60,0,0" />
+        <Label Content="Complete Your Details:" FontSize="15" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="229" Height="31"/>
+        <Label Content="Private Name:" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.512,1.325" Margin="10,87,0,463"  />
+        <TextBox x:Name="PrivateNameTextBox" HorizontalAlignment="Left"  Background="{x:Null}" VerticalAlignment="Center" Margin="98,92,0,458"/>
+        <Label Content="Family Name:" HorizontalAlignment="Left"  VerticalAlignment="Center" Margin="10,126,0,424" />
+        <TextBox x:Name="FamilyNameTextBox" Background="{x:Null}" HorizontalAlignment="Left"    VerticalAlignment="Center" Margin="98,126,0,424" />
+        <Label Content="Mail Address:" HorizontalAlignment="Left"  VerticalAlignment="Center" Margin="10,167,0,383" />
+        <TextBox x:Name="MailAddressTextBox"  HorizontalAlignment="Left" Background="{x:Null}" VerticalAlignment="Center" Margin="98,163,0,387" />
+        <Label Content="Phone Number:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,229,0,321" />
+        <TextBox x:Name="PhoneNumberTextBox" Background="{x:Null}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="98,229,0,321"/>
+        <Label Content="Bank Account Number:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="204,357,0,193" Width="119" />
+        <TextBox x:Name="BankAccountNumberTextBox" Background="{x:Null}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="328,357,0,193" />
+        <Label Content="ID:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,201,0,349"/>
+        <TextBox x:Name="HostKeyTextBox" Background="{x:Null}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="98,199,0,351"/>
+        <Label Content="Collection Clearance:" VerticalAlignment="Center" Margin="200,391,491,159" Width="Auto" />
+        <CheckBox x:Name="collectionClearanceCheckBox" VerticalAlignment="Center"  RenderTransformOrigin="0.486,0.611" Margin="314,395,466,158"/>
+
+        <Label Content="Area:" Margin="543,96,157,480" />
+        <ComboBox x:Name="AreaComboBox"  SelectedItem="{Binding Area}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="667,92,0,478"/>
+        <Label Content="Sub Area:" Margin="545,140,155,436"/>
+        <ComboBox x:Name="SubAreaComboBox" SelectedItem="{Binding SubArea}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="668,136,0,434"/>
+        <Label Content="Type of Hosting Unit:" Margin="543,186,140,391" Width="Auto" />
+        <ComboBox x:Name="TypeComboBox" SelectedItem="{Binding Type}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="667,182,0,388"/>
+        <Label Content="Number of Adults:" Margin="545,230,155,347"/>
+        <TextBox x:Name="AdultsTextBox" Background="{x:Null}" HorizontalAlignment="Left" Margin="666,230,0,347"/>
+        <Label Content="Number of Children:" RenderTransformOrigin="0.5,0.587" Margin="545,272,155,305"/>
+        <TextBox x:Name="ChildrenTextBox" Background="{x:Null}" HorizontalAlignment="Left" Margin="666,272,0,305"/>
+        <Label Content="Do You Have pool?" VerticalAlignment="Top" Margin="545,314,155,0"/>
+        <CheckBox x:Name="PoolCheckBox" HorizontalAlignment="Left"  VerticalAlignment="Top" RenderTransformOrigin="0.44,0.433" Height="23" Width="21" Margin="665,316,0,0"/>
+        <Label Content="Do You Have Jaccuzi?" Margin="545,358,139,219" Width="Auto" />
+        <CheckBox x:Name="JaccuziCheckBox"  HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.456,0.444" Height="19" Width="20" Margin="666,360,0,0"/>
+        <Label Content="Do You Have Garden?" Margin="545,402,134,174" Width="Auto" />
+        <CheckBox x:Name="GardenCheckBox"  HorizontalAlignment="Left"  VerticalAlignment="Top" Height="17" Width="15" Margin="667,405,0,0"/>
+        <Label Content="Do You Have Children Attractions?" Margin="545,444,81,132" Width="Auto" />
+        <CheckBox x:Name="ChildrenAttractionCheckBox" HorizontalAlignment="Left"  VerticalAlignment="Top" RenderTransformOrigin="0.433,0.444" Height="21" Margin="735,448,0,0" Width="21"/>
+
+        <Label Content="Bank Branch Details, Select One Line:" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,18,346,0" Width="247" />
+
+        <Label Content="Hosting Unit Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="545,57,0,0" />
+        <TextBox x:Name="hostingUnitNameTextBox" Background="{x:Null}" HorizontalAlignment="Left" Margin="667,56,0,520" />
+        <DataGrid x:Name="BankBranchDetailsDataGrid" Background="{x:Null}" AutoGenerateColumns="False" IsReadOnly="True" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="335" FontSize="16" Margin="203,46,0,0" Height="292" Foreground="Black" BorderBrush="White" FontFamily="Rockwell">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Bank Number" Binding="{Binding BankNumber}"/>
+                <DataGridTextColumn Header="Bank Name" Binding="{Binding BankName}"/>
+                <DataGridTextColumn Header="Branch Number" Binding="{Binding BranchNumber}"/>
+                <DataGridTextColumn Header="Branch Address" Binding="{Binding BranchAddress}"/>
+                <DataGridTextColumn Header="Branch City" Binding="{Binding BranchCity}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Content="Add Hosting Unit" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="178" Height="48" Click="Button_Click" Margin="305,495,0,0"/>
+
+
+    </Grid>
+
+</Window>

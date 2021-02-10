@@ -1,0 +1,31 @@
+﻿<Window x:Class="PLWPF.HostingUnitSite"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="HostingUnitSite" Height="415" Width="500" Icon="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026">
+    <Window.Resources>
+        <Style  TargetType="Button">
+            <Setter Property="FontSize"
+              Value="25" />
+            <Setter Property="FontFamily"
+              Value="Rockwell" />
+            <Setter Property="FontWeight"
+              Value="Bold" />
+            <Setter Property="Background"
+                    Value="Transparent"/>
+            <Setter Property="Foreground"
+                    Value="White"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,281,0.333,-0.333">
+        <Image HorizontalAlignment="Left" Height="410" VerticalAlignment="Top" Width="510" Source="https://cdn.shopify.com/s/files/1/2033/9929/products/product-image-736810739.jpg?v=1571610026" Margin="-17,-280,0,-25.334" />
+        <Button x:Name="UpdateHostingUnitButton" Content="Update Hosting Unit" Margin="10,10,321,23.666" FontSize="15" Click="UpdateHostingUnitButton_Click"  />
+        <Button x:Name="DeleteHostingUnitButton" Content="Delete Hosting Unit" Margin="177,10,154,23.666" FontSize="15" Click="DeleteHostingUnitButton_Click"  />
+        <Button x:Name="Order" Content="Order" Margin="344,10,4,23.666" FontSize="15" Click="Order_Click" />
+
+
+    </Grid>
+</Window>
